@@ -11,7 +11,6 @@ $ git config --global user.email 사용자이메일
 
 
 GitHub에서 클론한 URL을 사용해 로컬 저장소를 클론
-
 git clone https://github.com/adf123124/git1.git
 
 사용자 이름과 이메일 설정 확인
