@@ -1,6 +1,6 @@
-1230 GITHUB연습;
+1230 GITHUB연습
 
-사용자 이름과 이메일 설정;
+사용자 이름과 이메일 설정  
 $ git config --global user.name 사용자이름
 
 
